@@ -1,6 +1,6 @@
-# Project Title
+# Hello World Integration with Jenkins
 
-One Paragraph of project description goes here
+Projeto usado para validar a integracao com o Jenkins.
 
 ## Getting Started
 
